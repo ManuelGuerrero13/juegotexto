@@ -16,6 +16,12 @@ const InicioView = () => {
           <TouchableOpacity style={styles.boton}>
             <Text style={styles.textoboton}>Iniciar</Text>
             <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
+            <Text style={styles.textoboton}>Creditos</Text>
             <Text style={styles.textoboton}>Pendiente</Text>
           </TouchableOpacity>
         </View>
