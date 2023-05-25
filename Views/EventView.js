@@ -61,5 +61,4 @@ const EventView = ({ evento, handleSeleccionarOpcion }) => {
     </ScrollView>
   );
 };
-
 export default EventView;
