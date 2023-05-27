@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import EventModel from '../Models/EventModel';
-import EventView from '../Views/EventView';
+import EventView from '../views/EventView';
 
 const EventController = () => {
   const [eventoActual, setEventoActual] = useState('iniciar');
